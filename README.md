@@ -13,7 +13,7 @@
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/rowen101/laravel_crud_blog.git
+$ git clone https://github.com/rowen101/laravel-reactjs-crud.git
 ```
 
 ### Copy and Paste
